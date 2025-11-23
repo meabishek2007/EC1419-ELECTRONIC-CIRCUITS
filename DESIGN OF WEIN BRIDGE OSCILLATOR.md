@@ -13,9 +13,9 @@
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
 
-## Tabulation
-
 ## Graph
+<img width="934" height="1280" alt="image" src="https://github.com/user-attachments/assets/32b07b33-316d-4330-a1a2-4c78627760a5" />
+
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
